@@ -1,0 +1,12 @@
+{
+  "name": "gulp-simple",
+  "version": "0.0.0",
+  "description": "",
+  "main": " ",
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "gulp-pixrem": "^0.1.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
